@@ -2,11 +2,10 @@
 <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
     <!-- Sidebar - Brand -->
-    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?php echo base_url('/'); ?>">
+    <a class="sidebar-brand d-flex align-items-center justify-content-center mb-5" href="<?php echo base_url('/'); ?>">
         <div class="sidebar-brand-icon">
-            <i class="fas fa-laptop"></i>
+            <img src="public/img/supply-logo-branco.png" width="100">           
         </div>
-        <div class="sidebar-brand-text mx-3">Supply</div>
     </a>
 
     <!-- Divider -->
