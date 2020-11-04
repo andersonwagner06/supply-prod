@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost/supply/";
+const BASE_URL = "http://andersonwagner.com/supply/";
 
 $(function () {
     function blinker() {
